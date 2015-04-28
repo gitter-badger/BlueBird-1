@@ -28,20 +28,20 @@ Visit http://brackets-themes.github.io/ to see the latest install instructions.
 
 ### HTML
 
-![HTML Screenshot](https://github.com/derek-skinner/BlueBird/master/screenshots/html_screenshot.png)
+![HTML Screenshot](https://github.com/derek-skinner/BlueBird/blob/master/screenshots/html_screenshot.png)
 
 ### CSS
 
-![CSS Screenshot](https://github.com/derek-skinner/BlueBird/master/screenshots/css_screenshot.png)
+![CSS Screenshot](https://github.com/derek-skinner/BlueBird/blob/master/screenshots/css_screenshot.png)
 
 ### Less
 
-![Less Screenshot](https://github.com/derek-skinner/BlueBird/master/screenshots/less_screenshot.png)
+![Less Screenshot](https://github.com/derek-skinner/BlueBird/blob/master/screenshots/less_screenshot.png)
 
 ### JavaScript
 
-![JS Screenshot](https://github.com/derek-skinner/BlueBird/master/screenshots/js_screenshot.png)
+![JS Screenshot](https://github.com/derek-skinner/BlueBird/blob/master/screenshots/js_screenshot.png)
 
 ### JSON
 
-![JSON Screenshot](https://github.com/derek-skinner/BlueBird/master/screenshots/json_screenshot.png)
+![JSON Screenshot](https://github.com/derek-skinner/BlueBird/blob/master/screenshots/json_screenshot.png)
