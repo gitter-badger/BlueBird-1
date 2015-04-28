@@ -1,0 +1,15 @@
+{
+    "name": "BlueBird",
+    "title": "BlueBird",
+    "description": "Light theme with blue & gray syntax for Brackets",
+    "homepage": "https://github.com/derek-skinner/BlueBird",
+    "version": "1.0.0",
+    "author": "Derek Skinner <derek@derekskinner.tv> (http://derekskinner.tv)",
+    "license": "MIT",
+    "theme": {
+        "file": "theme.less",
+        "dark": true,
+        "addModeClass": true
+    },
+    "keywords": ["theme"]
+}
